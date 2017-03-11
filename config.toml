@@ -1,0 +1,4 @@
+baseurl = "https://www.joshuamcghee.com/"
+languageCode = "en-us"
+title = "Josh McGhee"
+theme = "hemingway2"
